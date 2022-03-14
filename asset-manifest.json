@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.407680e7.css",
+    "main.js": "/static/js/main.c1f43fd8.js",
+    "static/media/smoky-mountains.jpg": "/static/media/smoky-mountains.e9287a9e810220b687d9.jpg",
+    "index.html": "/index.html",
+    "main.407680e7.css.map": "/static/css/main.407680e7.css.map",
+    "main.c1f43fd8.js.map": "/static/js/main.c1f43fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407680e7.css",
+    "static/js/main.c1f43fd8.js"
+  ]
+}
