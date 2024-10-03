@@ -26,3 +26,13 @@
 .li-research {
     padding-bottom: 24px;
 }
+
+a {
+    color: #7C98FF; 
+    padding: 4px;
+}
+
+.link-about {
+    color: #7C98FF; 
+    padding: 8px;
+}
